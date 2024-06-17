@@ -1,4 +1,4 @@
-#READ-ME
+# READ-ME
 
 ALUNOS:
 João Pedro Silva Pinheiro / RM: 557013
